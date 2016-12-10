@@ -1,0 +1,16 @@
+{
+	"category" : "PLY-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/10/2016 15:29",
+	"instvars" : [
+		"comments",
+		"descriptions",
+		"elements" ],
+	"name" : "PLYDocument",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

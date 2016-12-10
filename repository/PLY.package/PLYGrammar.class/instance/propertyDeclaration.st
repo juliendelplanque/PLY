@@ -1,0 +1,3 @@
+accessing
+propertyDeclaration
+	^ listProperty / simpleProperty

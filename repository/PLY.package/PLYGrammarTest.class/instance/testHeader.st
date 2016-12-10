@@ -1,0 +1,13 @@
+tests-accessing
+testHeader
+	self parse: 'ply
+format ascii 1.0
+comment made by Greg Turk
+comment this file is a cube
+element vertex 8
+property float x
+property float y
+property float z
+element face 6
+property list uchar int vertex_index
+end_header' rule: #header

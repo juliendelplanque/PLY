@@ -1,0 +1,14 @@
+{
+	"category" : "PLY-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/9/2016 15:41",
+	"instvars" : [
+		 ],
+	"name" : "PLYASTBuilder",
+	"pools" : [
+		 ],
+	"super" : "PLYGrammar",
+	"type" : "normal" }

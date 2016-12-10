@@ -1,0 +1,16 @@
+{
+	"category" : "PLY-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/9/2016 15:47",
+	"instvars" : [
+		"name",
+		"properties",
+		"elementsCount" ],
+	"name" : "PLYElementDescription",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

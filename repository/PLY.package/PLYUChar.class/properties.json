@@ -1,0 +1,14 @@
+{
+	"category" : "PLY-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/10/2016 17:37",
+	"instvars" : [
+		 ],
+	"name" : "PLYUChar",
+	"pools" : [
+		 ],
+	"super" : "PLYPropertyType",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am an abstract type of a property.
